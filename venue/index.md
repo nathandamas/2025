@@ -15,9 +15,9 @@ As atividades de **treinamento** ocorrerão apenas no dia **19 de setembro de 20
 
 <!-- <a href="https://sotm-br.github.io/2025/venue/map" rel="Clique para conferir o mapa interativo!!">![Clique para conferir o mapa interativo!!](https://sotm-br.github.io/2025/venue/snapshot.PNG)</a> -->
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-38.435947895050056%2C-12.947824457259701%2C-38.43183875083924%2C-12.944980395395483&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=18/-12.946402/-38.433893" target="_blank" rel="noreferrer noopener">Ver mapa ampliado</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-38.435947895050056%2C-12.947824457259701%2C-38.43183875083924%2C-12.944980395395483&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=18/-12.946402/-38.433893" target="_blank" rel="noopener noreferrer">Ver mapa ampliado</a></small>
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-38.511580824852%2C-13.000470328786564%2C-38.50918024778367%2C-12.998763734049108&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/-12.999617/-38.510381" target="_blank" rel="noreferrer noopener">Ver mapa ampliado</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-38.511580824852%2C-13.000470328786564%2C-38.50918024778367%2C-12.998763734049108&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/-12.999617/-38.510381" target="_blank" rel="noopener noreferrer">Ver mapa ampliado</a></small>
 
 <br>Para os usuários de OSMAnd, aqui estão os pontos de interesse e estações de metrô em formato [.gpx](https://raw.githubusercontent.com/sotm-br/2025/main/venue/sotm_brasil_2025.gpx).<br>
 
@@ -108,7 +108,7 @@ Outra atração popular é visitar o município de Mata de São João, na locali
       iconUrl: "{{ "/img/logo/sotm_br-logo.svg" | prepend: site.baseurl }}",
       iconSize: [40, 40],
       iconAnchor: [20, 40]
-    })}).bindPopup("<h3>Tribunal de Justiça do Estado da Bahia</h3><p>Local do Evento <a href='https://www.openstreetmap.org/way/1375080142' target='_blank'>Open location on osm.org</a>.</p><p>Mapa detalhado:<a href='https://sotm-br.github.io/2025/venue/map' target='_blank'>aqui!</a>.</p>").addTo(map);
+    })}).bindPopup("<h3>Tribunal de Justiça do Estado da Bahia</h3><p>Local do Evento <a href='https://www.openstreetmap.org/way/1375080142' target='_blank' rel='noopener noreferrer'>Open location on osm.org</a>.</p><p>Mapa detalhado:<a href='https://sotm-br.github.io/2025/venue/map' target='_blank' rel='noopener noreferrer'>aqui!</a>.</p>").addTo(map);
 
 
 
