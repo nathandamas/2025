@@ -20,7 +20,7 @@ headings: "13,5,19,7,6,10,22,11,8,17,1,4,2,21,15,20,14,9,16,18,3,12"
   -->
 
 
-Arquivos das apresentações realizadas no SotM Brasil 2025, que foram gentilmente disponibilizadas pelos(as) autores(as). Para acessar as publicações (volume de anais e pôsteres, <a href="https://sotm-br.github.io/2023/posters/" target="_blank">clique aqui</a>).
+Arquivos das apresentações realizadas no SotM Brasil 2025, que foram gentilmente disponibilizadas pelos(as) autores(as). Para acessar as publicações (volume de anais e pôsteres, <a href="https://sotm-br.github.io/2023/posters/" target="_blank" rel="noopener noreferrer">clique aqui</a>).
 
 ## Apresentações (por ordem alfabética)
 *Clique nas imagens para baixar os arquivos em formato PDF!*
